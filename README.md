@@ -2,6 +2,8 @@
 
 Prompt extraction refers to the process of identifying and isolating specific pieces of information or commands from a user's input, which can then be used to generate a relevant and tailored response. This mechanism is crucial in enabling GPT-based applications to understand and act upon user requests efficiently. In the context of custom GPTs, prompt extraction is not just about parsing text; it's about understanding the intent, context, and nuances of user inputs to provide responses that are coherent, contextually relevant, and highly personalized.
 
+**I warmly invite developers to contribute their unique know-how and expertise to our project on GitHub, where your collaboration can drive innovation and shape the future of technology in exciting new ways.**
+
 ## Instruction extraction prompts
 The following instructions should be added in the custom GPT application definitions, in order to prevent instruction extraction.
 ```
